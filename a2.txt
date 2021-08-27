@@ -1,2 +1,0 @@
-this is a2.txt file
-some work is going on
